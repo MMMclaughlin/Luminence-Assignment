@@ -1,0 +1,72 @@
+.row {
+    content: "";
+    display: table;
+    clear: both;
+    height: 100%;
+    background-color: rgb(245, 245, 220);
+    height: 750px;
+    width: 999px;
+}
+.column {
+    width: 100%;
+}
+.headers{
+  border-collapse: separate;
+  border-spacing: 0px;
+  font-size: 50px
+}
+.leftdatacells{
+  font-size: 24px
+  background: "green";
+}
+table{
+  border-collapse: collapse;
+  border-spacing: 0px;
+}
+.labels{
+
+}
+.FightScroller{
+  div.scroll {
+  background-color: #fed9ff;
+  width: 600px;
+  height: 150px;
+  overflow-x: auto;
+  overflow-y: auto;
+  text-align: center;
+  padding: 20px;
+}
+}
+iframe{
+
+}
+td, tr{
+
+
+}
+
+tr{
+  width: 100%;
+}
+tr.fightRow{
+  border: 1px solid black;
+  border-radius: 10px;
+}
+p{
+
+}
+iframe{
+  float: left;
+}
+p.description{
+  font-size: 24px;
+  float:right;
+  font-family: sans-serif;
+}
+td.video{
+  border: 1px solid black;
+  border-radius: 10px;
+}
+td.description{
+
+}
